@@ -1,0 +1,11 @@
+print("hello M.6/14")
+print("Netchanok Leknoy")
+print("Gam")
+print("17 years old")
+print("Chonradsadornumrung")
+print("garusxm")
+print("9 January 2005")
+print("Live in Chonburi")
+print("Anime lovers")
+print("Video created")
+#น.ส.วัชรภรณ์ เหลาชัย ม.6/14 43
